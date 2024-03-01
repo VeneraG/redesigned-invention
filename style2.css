@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif
+}
+h4 {
+    margin-bottom: 5px;
+}
+input {
+    padding: 7px 10px;
+    border-radius: 2px;
+
+
+}
+.gray{
+    color: lightgray;
+    border:1px solid lightgray;
+    border-bottom: 2px solid lightgray;
+}
+.green{
+    color: limegreen;
+    border:1px solid limegreen;
+    border-bottom: 2px solid limegreen;
+}
+.red{
+    color: red;
+    border: 1px solid red;
+    border-bottom: 2px solid red;
+}
+button {
+    color: aliceblue;
+    margin: 5px;
+    padding: 7px 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px
+}
+.plus{
+    border-radius: 50px;
+    text-align: center;
+    padding: 7px 13px;
+}
+textarea {
+    color: lightgray;
+    font-family: sans-serif;
+    border: solid lightgray;
+    border-radius: 5px;
+    padding: 10px 13px;
+    width: 380px;
+}
+.gr {
+    border: 2px solid limegreen;
+    padding: 3px;
+}

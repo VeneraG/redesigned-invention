@@ -1,0 +1,39 @@
+ul li{
+padding: 10px;
+}
+.username {
+list-style-image: url("icon/username.png");
+
+}
+.email {
+list-style-image: url("icon/email.png");
+
+
+}
+.password {
+list-style-image: url("icon/pswd.png");
+}
+.conpassword {
+padding-top: 30px;
+list-style-type:none;
+}
+input {
+height: 40px;
+border: none;
+border-bottom: 2px solid lightgray;
+    color: lightgray;
+
+    padding-right: px;
+}
+input.name{
+    padding-right:180px;
+}
+select {
+    padding:10px 105px 11px 1px;
+    border: none;
+    border-bottom: 2px solid lightgray;
+
+}
+.date {
+    padding: 10px 55px  0px 10px;
+}
